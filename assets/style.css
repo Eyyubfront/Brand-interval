@@ -1,0 +1,475 @@
+* {
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.finisoutside {
+  background-color: #252b42;
+  padding: 20px;
+}
+.join {
+  border-radius: 10%;
+
+  background-color: #23a6f0;
+  color: aliceblue;
+  border-radius: 10%;
+  padding: 7px 23px 9px;
+}
+
+.fa-chevron-right {
+  gap: 6px;
+  margin-top: 30px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 40px;
+}
+.headrow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 18px;
+}
+.Brand {
+  color: aliceblue;
+}
+.head1 {
+  color: aliceblue;
+}
+.join2 {
+  color: blue;
+}
+
+.Highly {
+  color: aliceblue;
+  font-size: 35px;
+  margin-top: 37px;
+}
+.know {
+  color: aliceblue;
+  margin-top: 24px;
+}
+
+.Get {
+  background-color: #23a6f0;
+  color: aliceblue;
+  border-radius: 10%;
+  padding: 10px 15px 10px;
+  margin-top: 25px;
+}
+.learn {
+  background-color: #252b42;
+  border-radius: 10%;
+  border: 1px solid #23a6f0;
+  padding: 10px 15px 10px;
+}
+
+.lean1 {
+  color: aliceblue;
+}
+.page2 {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}
+
+.boy2 {
+  width: 500px;
+}
+
+.Packages {
+  color: aliceblue;
+  font-size: 38px;
+  margin-top: 24px;
+}
+
+.Problems {
+  color: aliceblue;
+  margin-top: 41px;
+}
+
+.mor {
+  color: #23a6f0;
+  margin-top: 30px;
+}
+
+.card3 {
+  width: 267px;
+  height: 334px;
+  margin-top: 150px;
+}
+
+.card1 {
+  width: 267px;
+  height: 334px;
+}
+
+.card2 {
+  width: 267px;
+  height: 334px;
+}
+
+.page4row {
+  display: flex;
+  flex-direction: column;
+}
+
+.page4 {
+  display: flex;
+  flex-direction: row;
+}
+
+.page3and4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 84px;
+}
+
+.page3 {
+  margin-top: 129px;
+  margin-left: 90px;
+}
+
+.twopage {
+  margin-top: 96px;
+}
+
+.page5and6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.Footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  margin-top: 80px;
+}
+
+.darktag {
+  color: darkgray;
+  margin-top: 10px;
+}
+
+.elevnpage {
+  margin-top: 180px;
+  text-align: center;
+}
+
+.jonus {
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.Practice {
+  color: #23a6f0;
+  margin-bottom: 19px;
+}
+
+.Prob {
+  color: aliceblue;
+  margin-top: 28px;
+}
+
+.emailcard {
+  margin-top: 100px;
+  padding: 30px;
+}
+
+.email {
+  width: 400px;
+  height: 45px;
+}
+
+.subs {
+  background-color: #23a6f0;
+  color: aliceblue;
+  border-radius: 5%;
+  padding: 18px 44px;
+  border: none;
+  margin-left: -5px;
+}
+
+.cal {
+  display: flex;
+  flex-direction: row;
+  margin-top: 18px;
+}
+
+.direction {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  gap: 14px;
+}
+.mesage {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  gap: 5px;
+}
+
+.footer2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.finis {
+  background-color: #d4e6f0;
+  height: 50px;
+  margin-top: 20px;
+}
+.love {
+  color: rgb(14, 15, 15);
+
+  padding: 16px;
+  text-align: center;
+}
+
+.practice {
+  color: #23a6f0;
+  margin-bottom: 19px;
+}
+
+.starcard {
+  margin-top: 440px;
+}
+
+.starall {
+  display: flex;
+  flex-direction: row;
+  margin-top: 49px;
+  padding: 78px;
+}
+
+.Eng {
+  color: #23a6f0;
+}
+
+.graphiconcard {
+  margin-top: 20px;
+  position: relative;
+  border: 1px solid;
+  width: 319px;
+  background-color: #fcfeff;
+
+  height: 600px;
+}
+
+.doc1 {
+  position: relative;
+  width: 320px;
+}
+
+.fa-download {
+  margin-top: 30px;
+  position: absolute;
+  left: 16px;
+  top: -17px;
+  border: 1px solid;
+  color: aliceblue;
+}
+.icons {
+  position: absolute;
+  display: flex;
+  gap: 10px;
+  color: #d4e6f0;
+  top: 237px;
+  margin-left: 93px;
+}
+
+.fa-heart {
+  border: 1px solid;
+  border-radius: 20%;
+  padding: 10px 15px;
+  color: white;
+}
+.fa-download {
+  border: 1px solid;
+  border-radius: 20%;
+  padding: 10px 15px;
+  color: white;
+}
+.fa-basket-shopping {
+  border: 1px solid;
+  border-radius: 20%;
+  padding: 10px 15px;
+  color: white;
+}
+.fa-eye {
+  border: 1px solid;
+  border-radius: 5%;
+  padding: 10px 10px;
+  color: rgb(231, 211, 211);
+}
+
+.fram {
+  width: 60px;
+  height: 20px;
+}
+
+.engstar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 13px;
+  gap: 83px;
+}
+
+.engwhite {
+  color: #23a6f0;
+}
+.gradesign {
+  color: black;
+  margin-top: 10px;
+}
+
+.focus {
+  margin-top: 10px;
+  color: darkgrey;
+}
+
+.sales {
+  color: darkgrey;
+  margin-top: 10px;
+}
+
+.dolars {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-right: 207px;
+}
+
+.sixtinfour {
+  color: green;
+}
+
+.time {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  margin-right: 52px;
+}
+
+.morelearn {
+  border-radius: 10%;
+  padding: 10px 15px 10px;
+  border: 1px solid blue;
+}
+
+.graphiconcardfoter {
+  padding: 20px;
+}
+
+.graphiconallcard {
+  display: flex;
+  flex-direction: row;
+  margin-top: 49px;
+  padding: 43px;
+}
+
+@media (max-width: 960px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+  }
+
+  .headrow {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+  }
+
+  .page2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .Get {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+  }
+  .learn {
+    display: flex;
+    flex-direction: column;
+  }
+  .know {
+    text-align: center;
+  }
+  .Highly {
+    text-align: center;
+  }
+  .join2 {
+    text-align: center;
+  }
+  .page3and4 {
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+  }
+  .page3 {
+    margin: auto;
+  }
+  .page4 {
+    display: flex;
+    flex-direction: column;
+  }
+  .page5and6 {
+    display: flex;
+    flex-direction: column;
+  }
+  .Graphicone {
+    text-align: center;
+    margin-top: 76px;
+  }
+  .page6row {
+    text-align: center;
+  }
+  .graphiconallcard {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .starcard {
+    text-align: center;
+  }
+  .starall {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .Footer {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .finis {
+    width: 200px;
+    height: 80px;
+  }
+  .emailcard{
+    display: flex;
+    flex-direction: column;
+  }
+  .subs{
+    margin: auto;
+    margin-top: 22px
+  }
+}
